@@ -34,16 +34,6 @@ https://abhipsapanigrahi86.github.io/weather-app/
 
 ---
 
-## 📸 Screenshot
-
-(Add your screenshot here)
-
-Example:
-
-![Weather App Screenshot](screenshot.png)
-
----
-
 ## 🚀 How to Run
 
 1. Download or clone the repository
